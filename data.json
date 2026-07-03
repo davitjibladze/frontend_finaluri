@@ -1,0 +1,65 @@
+{
+    "kursebi": [
+        {
+            "id": 1,
+            "saxeli": "შესავალი Python-ში",
+            "surati": "assets/course-image1.jpeg",
+            "reitingi": "4.5k",
+            "avatari": "assets/avatar1.png",
+            "gakvetili": 10,
+            "saati": 19,
+            "avtori": "ნინო",
+            "fasi": 0
+        },
+        {
+            "id": 2,
+            "saxeli": "JavaScript-ის საფუძვლები",
+            "surati": "assets/course-image2.jpg",
+            "avatari": "assets/avatar2.png",
+            "reitingi": "4.2k",
+            "gakvetili": 12,
+            "saati": 15,
+            "avtori": "გიორგი",
+            "fasi": 50
+        },
+        {
+            "id": 3,
+            "saxeli": "UI/UX დიზაინი",
+            "surati": "assets/course-image3.jpg",
+            "reitingi": "4.7k",
+            "avatari": "assets/avatar3.png",
+            "gakvetili": 14,
+            "saati": 22,
+            "avtori": "თამარ",
+            "fasi": 0
+        },
+        {
+            "id": 4,
+            "saxeli": "შესავალი Excel-ში",
+            "surati": "assets/course-image4.jpeg",
+            "reitingi": "4.3k",
+            "avatari": "assets/avatar4.png",
+            "gakvetili": 8,
+            "saati": 11,
+            "avtori": "ლევან",
+            "fasi": 35
+        },
+        {
+            "id": 5,
+            "saxeli": "ციფრული მარკეტინგი",
+            "surati": "assets/course-image5.png",
+            "reitingi": "4.6k",
+            "avatari": "assets/avatar5.png",
+            "gakvetili": 16,
+            "saati": 25,
+            "avtori": "ანა",
+            "fasi": 60
+        }
+    ],
+    "lektorebi": [
+        { "id": 1, "saxeli": "ანა სტურუა", "roli": "Frontend დეველოპერი", "avatari": "assets/avatar5.png" },
+        { "id": 2, "saxeli": "გიორგი კობახიძე", "roli": "Python Developer", "avatari": "assets/avatar2.png" },
+        { "id": 3, "saxeli": "თამარ მაისურაძე", "roli": "UI/UX Designer", "avatari": "assets/avatar3.png" },
+        { "id": 4, "saxeli": "ლევან ჩხეიძე", "roli": "Data Analyst", "avatari": "assets/avatar4.png" }
+    ]
+}
