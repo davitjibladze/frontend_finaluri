@@ -140,6 +140,6 @@ function main(movlena) {
 
     localStorage.setItem(SESSION_KEY, JSON.stringify(session));
 
-    window.location.href = "/index.html";
+    window.location.href = "../index.html";
 }
 registracia.addEventListener("submit", main);
